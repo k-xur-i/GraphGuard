@@ -61,10 +61,7 @@ Relationships: `MEMBER_OF`, `OWNS`, `AUTHORIZED_SIGNATORY_OF`, `HAS_ACCESS_TO`, 
 ## Screenshots
 See `docs/screenshots/`.
 
-## Team contributions
-| Member | Reg. No. | Contribution |
-|---|---|---|
-| Gouri Dinesh | 23BCE2211 | (fill in) |
+
 
 ## Limitations
 No real authentication, no balance locking, append-only ledger enforced at API level only, single database instance, simulated data.
