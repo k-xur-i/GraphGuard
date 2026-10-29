@@ -1,7 +1,7 @@
 # GraphGuard: Graph-Based Access Control and Audit System for Shared Bank Accounts (Neo4j)
 
 Course project, BCSE406L NoSQL Databases, VIT Vellore.
-Student: Gouri Dinesh (23BCE2211) | Guide: Dr. D. Vivek
+Members : Gouri Dinesh (23BCE2211) | Riya Ann Ignatious (23BCE2176) | Guide: Dr. D. Vivek
 
 All data is **simulated**. No real bank data, no real payments.
 
